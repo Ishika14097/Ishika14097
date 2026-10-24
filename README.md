@@ -13,7 +13,6 @@
 Wanna-be data analyst. Exploring new ideas, building random things. Currently running on coffee, curiosity and AI tools. Not perfect, just disciplined ;)
 
 🔭 &nbsp;I'm currently working on **an application**  
-🌱 &nbsp;I'm currently learning **Cloud Computing**  
 ⚡ &nbsp;Fun fact: **Alive on curiosity**
 
 ### 🛠️ Tech Stack
